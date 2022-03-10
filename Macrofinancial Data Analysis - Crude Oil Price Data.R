@@ -1,7 +1,7 @@
-#CHAPTER NO. 04 - MACROFINANCIAL DATA ANALYSIS
+#MACROFINANCIAL DATA ANALYSIS
 ## Macroeconomics - how whole economy works
 
-#Project - 1 - Crude oil price data from 1987 to 2017
+#Crude oil price data from 1987 to 2017
 ##installing new library and load into R environment
 ###install.packages("fBasics")
 ###install.packages("evir")
